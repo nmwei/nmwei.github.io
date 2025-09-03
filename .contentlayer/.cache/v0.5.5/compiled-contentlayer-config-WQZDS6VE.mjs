@@ -35,7 +35,7 @@ var require_siteMetadata = __commonJS({
       language: "en-us",
       theme: "system",
       // system, dark or light
-      siteUrl: "https://tailwind-nextjs-starter-blog.vercel.app",
+      siteUrl: "https://nmwei.github.io",
       siteRepo: "https://github.com/timlrx/tailwind-nextjs-starter-blog",
       siteLogo: `${process.env.BASE_PATH || ""}/static/images/logo.png`,
       socialBanner: `${process.env.BASE_PATH || ""}/static/images/twitter-card.png`,
@@ -314,4 +314,4 @@ export {
   Blog,
   contentlayer_config_default as default
 };
-//# sourceMappingURL=compiled-contentlayer-config-ZY7JVASH.mjs.map
+//# sourceMappingURL=compiled-contentlayer-config-WQZDS6VE.mjs.map
