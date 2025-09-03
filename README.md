@@ -130,7 +130,7 @@ canonicalUrl: https://example.com/blog/post
 yarn export
 ```
 
-2. 将 `out` 目录内容推送到 `gh-pages` 分支
+2. 将 `docs` 目录内容推送到 `gh-pages` 分支
 
 3. 在 GitHub 仓库设置中启用 Pages
 
@@ -143,7 +143,7 @@ yarn export
 
 1. 连接 GitHub 仓库到 [Netlify](https://netlify.com)
 2. 构建命令：`yarn export`
-3. 发布目录：`out`
+3. 发布目录：`docs`
 
 ### 其他静态托管服务
 
@@ -152,10 +152,10 @@ yarn export
 yarn export
 
 # 本地预览
-npx serve out
+npx serve docs
 ```
 
-然后上传 `out` 目录到你的托管服务。
+然后上传 `docs` 目录到你的托管服务。
 
 ### 子路径部署
 

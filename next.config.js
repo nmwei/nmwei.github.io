@@ -66,6 +66,7 @@ module.exports = () => {
   return plugins.reduce((acc, next) => next(acc), {
     output,
     basePath,
+    distDir: process.env.EXPORT ? 'docs' : '.next',
     reactStrictMode: true,
     trailingSlash: false,
     pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
