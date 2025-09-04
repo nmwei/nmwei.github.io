@@ -1,0 +1,164 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>我的博客</title>
+      <link>https://nmwei.github.io/blog</link>
+      <description>个人博客</description>
+      <language>zh-cn</language>
+      <managingEditor>254060001@qq.com (倪梦威)</managingEditor>
+      <webMaster>254060001@qq.com (倪梦威)</webMaster>
+      <lastBuildDate>Wed, 10 Oct 2018 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://nmwei.github.io/tags/代码质量/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://nmwei.github.io/blog/代码质量/JavaScript设计原则与编程技巧</guid>
+    <title>JavaScript设计原则与编程技巧</title>
+    <link>https://nmwei.github.io/blog/代码质量/JavaScript设计原则与编程技巧</link>
+    <description>JavaScript设计原则与编程技巧相关文章</description>
+    <pubDate>Wed, 10 Oct 2018 00:00:00 GMT</pubDate>
+    <author>254060001@qq.com (倪梦威)</author>
+    <category>代码质量</category><category>编程</category>
+  </item>
+
+  <item>
+    <guid>https://nmwei.github.io/blog/代码质量/JavaScript设计模式</guid>
+    <title>JavaScript设计模式</title>
+    <link>https://nmwei.github.io/blog/代码质量/JavaScript设计模式</link>
+    <description>JavaScript设计模式相关文章</description>
+    <pubDate>Wed, 10 Oct 2018 00:00:00 GMT</pubDate>
+    <author>254060001@qq.com (倪梦威)</author>
+    <category>代码质量</category><category>编程</category>
+  </item>
+
+  <item>
+    <guid>https://nmwei.github.io/blog/代码质量/JavaScript面向对象</guid>
+    <title>JavaScript面向对象</title>
+    <link>https://nmwei.github.io/blog/代码质量/JavaScript面向对象</link>
+    <description>JavaScript面向对象相关文章</description>
+    <pubDate>Wed, 10 Oct 2018 00:00:00 GMT</pubDate>
+    <author>254060001@qq.com (倪梦威)</author>
+    <category>代码质量</category><category>编程</category>
+  </item>
+
+  <item>
+    <guid>https://nmwei.github.io/blog/代码质量/JavaScript面向对象与设计模式</guid>
+    <title>JavaScript面向对象与设计模式</title>
+    <link>https://nmwei.github.io/blog/代码质量/JavaScript面向对象与设计模式</link>
+    <description>JavaScript面向对象与设计模式相关文章</description>
+    <pubDate>Tue, 11 Sep 2018 00:00:00 GMT</pubDate>
+    <author>254060001@qq.com (倪梦威)</author>
+    <category>代码质量</category><category>编程</category>
+  </item>
+
+  <item>
+    <guid>https://nmwei.github.io/blog/代码质量/《Clean-Code》--原则、模式和实践</guid>
+    <title>《Clean-Code》--原则、模式和实践</title>
+    <link>https://nmwei.github.io/blog/代码质量/《Clean-Code》--原则、模式和实践</link>
+    <description>《Clean-Code》--原则、模式和实践相关文章</description>
+    <pubDate>Thu, 27 Dec 2018 00:00:00 GMT</pubDate>
+    <author>254060001@qq.com (倪梦威)</author>
+    <category>代码质量</category><category>编程</category>
+  </item>
+
+  <item>
+    <guid>https://nmwei.github.io/blog/代码质量/《重构》--代码的坏味道</guid>
+    <title>《重构》--代码的坏味道</title>
+    <link>https://nmwei.github.io/blog/代码质量/《重构》--代码的坏味道</link>
+    <description>《重构》--代码的坏味道相关文章</description>
+    <pubDate>Thu, 18 Oct 2018 00:00:00 GMT</pubDate>
+    <author>254060001@qq.com (倪梦威)</author>
+    <category>代码质量</category><category>编程</category>
+  </item>
+
+  <item>
+    <guid>https://nmwei.github.io/blog/代码质量/《重构》--在对象之间搬移特性</guid>
+    <title>《重构》--在对象之间搬移特性</title>
+    <link>https://nmwei.github.io/blog/代码质量/《重构》--在对象之间搬移特性</link>
+    <description>《重构》--在对象之间搬移特性相关文章</description>
+    <pubDate>Tue, 20 Nov 2018 00:00:00 GMT</pubDate>
+    <author>254060001@qq.com (倪梦威)</author>
+    <category>代码质量</category><category>编程</category>
+  </item>
+
+  <item>
+    <guid>https://nmwei.github.io/blog/代码质量/《重构》--处理概括关系</guid>
+    <title>《重构》--处理概括关系</title>
+    <link>https://nmwei.github.io/blog/代码质量/《重构》--处理概括关系</link>
+    <description>《重构》--处理概括关系相关文章</description>
+    <pubDate>Tue, 20 Nov 2018 00:00:00 GMT</pubDate>
+    <author>254060001@qq.com (倪梦威)</author>
+    <category>代码质量</category><category>编程</category>
+  </item>
+
+  <item>
+    <guid>https://nmwei.github.io/blog/代码质量/《重构》--研究成果</guid>
+    <title>《重构》--研究成果</title>
+    <link>https://nmwei.github.io/blog/代码质量/《重构》--研究成果</link>
+    <description>《重构》--研究成果相关文章</description>
+    <pubDate>Sat, 24 Nov 2018 00:00:00 GMT</pubDate>
+    <author>254060001@qq.com (倪梦威)</author>
+    <category>代码质量</category><category>编程</category>
+  </item>
+
+  <item>
+    <guid>https://nmwei.github.io/blog/代码质量/《重构》--简化函数调用</guid>
+    <title>《重构》--简化函数调用</title>
+    <link>https://nmwei.github.io/blog/代码质量/《重构》--简化函数调用</link>
+    <description>《重构》--简化函数调用相关文章</description>
+    <pubDate>Tue, 20 Nov 2018 00:00:00 GMT</pubDate>
+    <author>254060001@qq.com (倪梦威)</author>
+    <category>代码质量</category><category>编程</category>
+  </item>
+
+  <item>
+    <guid>https://nmwei.github.io/blog/代码质量/《重构》--简化条件表达式</guid>
+    <title>《重构》--简化条件表达式</title>
+    <link>https://nmwei.github.io/blog/代码质量/《重构》--简化条件表达式</link>
+    <description>《重构》--简化条件表达式相关文章</description>
+    <pubDate>Tue, 20 Nov 2018 00:00:00 GMT</pubDate>
+    <author>254060001@qq.com (倪梦威)</author>
+    <category>代码质量</category><category>编程</category>
+  </item>
+
+  <item>
+    <guid>https://nmwei.github.io/blog/代码质量/《重构》--重新组织函数</guid>
+    <title>《重构》--重新组织函数</title>
+    <link>https://nmwei.github.io/blog/代码质量/《重构》--重新组织函数</link>
+    <description>《重构》--重新组织函数相关文章</description>
+    <pubDate>Tue, 20 Nov 2018 00:00:00 GMT</pubDate>
+    <author>254060001@qq.com (倪梦威)</author>
+    <category>代码质量</category><category>编程</category>
+  </item>
+
+  <item>
+    <guid>https://nmwei.github.io/blog/代码质量/《重构》--重新组织数据</guid>
+    <title>《重构》--重新组织数据</title>
+    <link>https://nmwei.github.io/blog/代码质量/《重构》--重新组织数据</link>
+    <description>《重构》--重新组织数据相关文章</description>
+    <pubDate>Tue, 20 Nov 2018 00:00:00 GMT</pubDate>
+    <author>254060001@qq.com (倪梦威)</author>
+    <category>代码质量</category><category>编程</category>
+  </item>
+
+  <item>
+    <guid>https://nmwei.github.io/blog/代码质量/《重构》--重构入门</guid>
+    <title>《重构》--重构入门</title>
+    <link>https://nmwei.github.io/blog/代码质量/《重构》--重构入门</link>
+    <description>《重构》--重构入门相关文章</description>
+    <pubDate>Fri, 12 Oct 2018 00:00:00 GMT</pubDate>
+    <author>254060001@qq.com (倪梦威)</author>
+    <category>代码质量</category><category>编程</category>
+  </item>
+
+  <item>
+    <guid>https://nmwei.github.io/blog/代码质量/架构整洁之道</guid>
+    <title>架构整洁之道</title>
+    <link>https://nmwei.github.io/blog/代码质量/架构整洁之道</link>
+    <description>架构整洁之道相关文章</description>
+    <pubDate>Thu, 18 Apr 2019 00:00:00 GMT</pubDate>
+    <author>254060001@qq.com (倪梦威)</author>
+    <category>代码质量</category><category>编程</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>我的博客</title>
+      <link>https://nmwei.github.io/blog</link>
+      <description>个人博客</description>
+      <language>zh-cn</language>
+      <managingEditor>254060001@qq.com (倪梦威)</managingEditor>
+      <webMaster>254060001@qq.com (倪梦威)</webMaster>
+      <lastBuildDate>Sun, 15 Apr 2018 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://nmwei.github.io/tags/手势/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://nmwei.github.io/blog/JavaScript/双指缩放的实现方式对比</guid>
+    <title>双指缩放的实现方式对比</title>
+    <link>https://nmwei.github.io/blog/JavaScript/双指缩放的实现方式对比</link>
+    <description>对比分析双指缩放的两种实现方式：根据手势计算scale重新render生成视图 vs 根据手势计算scale修改元素scale()样式</description>
+    <pubDate>Sun, 15 Apr 2018 00:00:00 GMT</pubDate>
+    <author>254060001@qq.com (倪梦威)</author>
+    <category>JavaScript</category><category>移动端</category><category>手势</category>
+  </item>
+
+    </channel>
+  </rss>
