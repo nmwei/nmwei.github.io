@@ -1,15 +1,15 @@
 {
-  "name": "Tails Azimuth",
+  "name": "倪梦威",
   "avatar": "/static/images/avatar.png",
-  "occupation": "Professor of Atmospheric Science",
-  "company": "Stanford University",
-  "email": "address@yoursite.com",
-  "twitter": "https://twitter.com/Twitter",
-  "linkedin": "https://www.linkedin.com",
-  "github": "https://github.com",
+  "occupation": "个人博客作者",
+  "company": "个人",
+  "email": "254060001@qq.com",
+  "twitter": null,
+  "linkedin": null,
+  "github": null,
   "body": {
-    "raw": "\nTails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.\n\nHe leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.\n",
-    "code": "var Component=(()=>{var d=Object.create;var n=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var w=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),x=(e,t)=>{for(var s in t)n(e,s,{get:t[s],enumerable:!0})},o=(e,t,s,r)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let a of h(t))!g.call(e,a)&&a!==s&&n(e,a,{get:()=>t[a],enumerable:!(r=p(t,a))||r.enumerable});return e};var v=(e,t,s)=>(s=e!=null?d(f(e)):{},o(t||!e||!e.__esModule?n(s,\"default\",{value:e,enumerable:!0}):s,e)),b=e=>o(n({},\"__esModule\",{value:!0}),e);var l=w((q,c)=>{c.exports=_jsx_runtime});var _={};x(_,{default:()=>m,frontmatter:()=>y});var i=v(l()),y={name:\"Tails Azimuth\",avatar:\"/static/images/avatar.png\",occupation:\"Professor of Atmospheric Science\",company:\"Stanford University\",email:\"address@yoursite.com\",twitter:\"https://twitter.com/Twitter\",linkedin:\"https://www.linkedin.com\",github:\"https://github.com\"};function u(e){let t={p:\"p\",...e.components};return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(t.p,{children:\"Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.\"}),(0,i.jsx)(t.p,{children:\"He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.\"}),(0,i.jsx)(t.p,{children:\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.\"})]})}function m(e={}){let{wrapper:t}=e.components||{};return t?(0,i.jsx)(t,{...e,children:(0,i.jsx)(u,{...e})}):u(e)}return b(_);})();\n;return Component;"
+    "raw": "\n欢迎来到我的个人博客！我是倪梦威，这里是我分享技术文章、生活感悟和学习心得的地方。\n\n在这个博客中，我会记录我的学习历程，分享一些有趣的技术发现，以及生活中的点点滴滴。希望通过这个平台能够与大家交流学习，共同进步。\n\n感谢你的访问，希望你能在这里找到有价值的内容！\n",
+    "code": "var Component=(()=>{var p=Object.create;var o=Object.defineProperty;var x=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var _=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var f=(n,t)=>()=>(t||n((t={exports:{}}).exports,t),t.exports),g=(n,t)=>{for(var a in t)o(n,a,{get:t[a],enumerable:!0})},i=(n,t,a,c)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let r of d(t))!h.call(n,r)&&r!==a&&o(n,r,{get:()=>t[r],enumerable:!(c=x(t,r))||c.enumerable});return n};var j=(n,t,a)=>(a=n!=null?p(_(n)):{},i(t||!n||!n.__esModule?o(a,\"default\",{value:n,enumerable:!0}):a,n)),M=n=>i(o({},\"__esModule\",{value:!0}),n);var l=f((y,s)=>{s.exports=_jsx_runtime});var v={};g(v,{default:()=>u,frontmatter:()=>q});var e=j(l()),q={name:\"\\u502A\\u68A6\\u5A01\",avatar:\"/static/images/avatar.png\",occupation:\"\\u4E2A\\u4EBA\\u535A\\u5BA2\\u4F5C\\u8005\",company:\"\\u4E2A\\u4EBA\",email:\"254060001@qq.com\",twitter:null,linkedin:null,github:null};function m(n){let t={p:\"p\",...n.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(t.p,{children:\"\\u6B22\\u8FCE\\u6765\\u5230\\u6211\\u7684\\u4E2A\\u4EBA\\u535A\\u5BA2\\uFF01\\u6211\\u662F\\u502A\\u68A6\\u5A01\\uFF0C\\u8FD9\\u91CC\\u662F\\u6211\\u5206\\u4EAB\\u6280\\u672F\\u6587\\u7AE0\\u3001\\u751F\\u6D3B\\u611F\\u609F\\u548C\\u5B66\\u4E60\\u5FC3\\u5F97\\u7684\\u5730\\u65B9\\u3002\"}),(0,e.jsx)(t.p,{children:\"\\u5728\\u8FD9\\u4E2A\\u535A\\u5BA2\\u4E2D\\uFF0C\\u6211\\u4F1A\\u8BB0\\u5F55\\u6211\\u7684\\u5B66\\u4E60\\u5386\\u7A0B\\uFF0C\\u5206\\u4EAB\\u4E00\\u4E9B\\u6709\\u8DA3\\u7684\\u6280\\u672F\\u53D1\\u73B0\\uFF0C\\u4EE5\\u53CA\\u751F\\u6D3B\\u4E2D\\u7684\\u70B9\\u70B9\\u6EF4\\u6EF4\\u3002\\u5E0C\\u671B\\u901A\\u8FC7\\u8FD9\\u4E2A\\u5E73\\u53F0\\u80FD\\u591F\\u4E0E\\u5927\\u5BB6\\u4EA4\\u6D41\\u5B66\\u4E60\\uFF0C\\u5171\\u540C\\u8FDB\\u6B65\\u3002\"}),(0,e.jsx)(t.p,{children:\"\\u611F\\u8C22\\u4F60\\u7684\\u8BBF\\u95EE\\uFF0C\\u5E0C\\u671B\\u4F60\\u80FD\\u5728\\u8FD9\\u91CC\\u627E\\u5230\\u6709\\u4EF7\\u503C\\u7684\\u5185\\u5BB9\\uFF01\"})]})}function u(n={}){let{wrapper:t}=n.components||{};return t?(0,e.jsx)(t,{...n,children:(0,e.jsx)(m,{...n})}):m(n)}return M(v);})();\n;return Component;"
   },
   "_id": "authors/default.mdx",
   "_raw": {
@@ -22,9 +22,9 @@
   "type": "Authors",
   "readingTime": {
     "text": "1 min read",
-    "minutes": 0.45,
-    "time": 27000,
-    "words": 90
+    "minutes": 0.58,
+    "time": 34800,
+    "words": 116
   },
   "slug": "default",
   "path": "authors/default",
