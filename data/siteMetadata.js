@@ -25,6 +25,17 @@ const siteMetadata = {
   locale: 'zh-CN',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
+  // 博客显示配置
+  blog: {
+    // 最新文章显示条数
+    maxDisplayOnHome: 10,
+    // 博客列表页每页显示条数
+    postsPerPage: 20,
+    // 标签页每页显示条数
+    postsPerPageOnTag: 20,
+    // 是否显示页脚主题链接
+    showThemeCredit: false,
+  },
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
@@ -52,7 +63,7 @@ const siteMetadata = {
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo, revue, emailoctopus, beehive
     // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
+    provider: null, // 设置为 null 来隐藏邮件订阅表单
   },
   comments: {
     // If you want to use an analytics provider you have to add it to the
