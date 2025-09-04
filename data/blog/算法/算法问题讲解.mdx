@@ -1,0 +1,36 @@
+---
+title: 算法问题讲解
+date: '2024-01-01'
+tags: ['算法', '编程']
+draft: false
+summary: '算法问题讲解相关文章'
+layout: PostSimple
+---
+
+### [最小路径覆盖](https://judge.fineres.com/problem/43)
+1. 路径数（点不重复）= 有向图中的总边数 - 二分图最大匹配数
+2. 将有向图变成了一个二分图
+3. 匈牙利算法计算最大匹配数
+参考: [最小路径覆盖问题（网络流24题）](https://www.cnblogs.com/BCOI/p/8620330.html)、[二分图的最大匹配、完美匹配和匈牙利算法](https://www.renfei.org/blog/bipartite-matching.html)
+### [最大公约数](https://judge.fineres.com/problem/44)
+1. 辗转相除法求最大公约数
+m对n求余为a, 若a不等于0,则 m = n, n = a, 继续求余,否则 n 为最大公约数(m > n)。
+### [序列统计](https://judge.fineres.com/problem/50)
+1. m = R - L + 1
+2. 问题等价于，从 [1, m]中选择n个数(可重复)的方案数。
+3. 数学推导等于C(m + n, m) - 1  
+4. 使用Lucas定理计算
+参考：[「BZOJ 4403」序列统计 - 组合数](https://oi.men.ci/bzoj-4403/)
+### 
+### [帐篷分配问题](https://judge.fineres.com/problem/65)
+1. Ai表示第i个帐篷的人数，ave表示平均每个帐篷人数。Ci=Ai-ave。
+2. |X1| + |X1-C1| + |X1-C2| + ……+ |X1-Cn-1|要尽量小
+3. 注意到|X1-Ci|的几何意义是数轴上的点X1到Ci的距离，所以问题变成了：给定数轴上的n个点，找出一个到他们的距离之和尽量小的点，而这个点就是这些数中的中位数
+参考: [AcWing 122. 糖果传递](https://www.acwing.com/solution/content/955/)
+
+
+
+
+
+
+
