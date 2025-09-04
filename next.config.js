@@ -67,6 +67,23 @@ module.exports = () => {
     output,
     basePath,
     distDir: process.env.EXPORT ? 'docs' : '.next',
+    // 在静态导出时，将 _next 目录重命名为 next
+    ...(process.env.EXPORT && {
+      webpack: (config, options) => {
+        config.module.rules.push({
+          test: /\.svg$/,
+          use: ['@svgr/webpack'],
+        })
+        
+        // 修改输出目录名称
+        if (!options.isServer) {
+          config.output.filename = config.output.filename.replace('_next', 'next')
+          config.output.chunkFilename = config.output.chunkFilename.replace('_next', 'next')
+        }
+        
+        return config
+      }
+    }),
     reactStrictMode: true,
     trailingSlash: false,
     pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
