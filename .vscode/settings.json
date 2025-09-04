@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.mdx": "markdown"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "markdown.preview.breaks": true,
+  "markdown.preview.linkify": true
+}
